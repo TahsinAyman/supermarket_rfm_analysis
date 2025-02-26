@@ -31,6 +31,7 @@ This project involves customer segmentation using RFM `(Recency Frequency Moneta
 ![badge](https://img.shields.io/badge/datagrip-%23000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
 ![badge](https://img.shields.io/badge/mysql_workbench-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![badge](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 ### 🛰️ Files
@@ -45,7 +46,7 @@ This project involves customer segmentation using RFM `(Recency Frequency Moneta
 ### How to Run 👈
 - Clone the repository using 
     ```bash
-    git clone https://github.com/TahsinAyman/rfm_analysis
+    git clone https://github.com/TahsinAyman/supermarket_rfm_analysis.git
     ```
 - Under a stable `MySQL` connection run [`table.sql`](./src/table.sql)
 - From [`data.csv`](./data/data.csv) file import all the data using `MySQL Workbench` or `Data grip`
