@@ -28,5 +28,6 @@ CREATE TABLE IF NOT EXISTS sales (
     order_id int NOT NULL,
     return_status VARCHAR(255) NOT NULL
 );
+
 # Do bulk insertion data.csv file
 
